@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796790368349",
+    "project_id": "petiborn-8a9f9",
+    "storage_bucket": "petiborn-8a9f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796790368349:android:c0d223572ee8737c6045b4",
+        "android_client_info": {
+          "package_name": "com.example.petiborn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uSruswd0TrxPVA-oz4M9mItFDBbCnpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
